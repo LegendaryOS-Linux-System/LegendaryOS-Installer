@@ -1,4 +1,4 @@
-# HackerOS-Installer 0.2
+# LegendaryOS-Installer
 
 Instalator HackerOS — dwie edycje, jedna wspólna logika. Wersja 0.2 działa na
 **Silver 0.4**, buduje się przez **Bit** (`Bit.hk`) i nie zamraża interfejsu
